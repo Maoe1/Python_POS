@@ -1,0 +1,15 @@
+
+*-----************ ORDER RECIEPT ************------------*
+
+||     Order number: 1
+
+||     User Name: John Doe
+
+||     Number of Items: 2
+
+||     Total Cost: 77.4
+
+       Items baught: ball, ball
+
+*---------------------------------------------------------------------*
+
